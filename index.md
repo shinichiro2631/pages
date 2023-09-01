@@ -43,3 +43,5 @@
 
 docs/index.md から docs/fuga/hoge.md にリンクを貼る場合
 [ほげ](./fuga/hoge.md)
+
+![hoge](https://github.com/shinichiro2631/pages/assets/113074008/653b8368-bd6a-4016-ac09-2b6f7b877f0e)
